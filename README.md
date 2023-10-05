@@ -1,4 +1,4 @@
-# FOSS_Weekly
+# Noah_MP/SMAP
 ### This is just a start, so just wait for the upcoming weeks
 
 ### Lets first get know each others.
