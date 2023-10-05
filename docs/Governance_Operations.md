@@ -7,7 +7,7 @@
 1. [Introduction](#introduction)
     - [Project Overview and Objectives](#project-overview-and-objectives)
         - [NoahMP](#NoahMP)
-        - [FOSS Reference Hub](#foss-reference-hub)
+        - [NoahMP Reference Hub](#NoahMP-Reference-Hub)
     - [Our Team](#our-team)
         - [Organizational Structure](#organizational-structure)
 2. [Operations](#operations)
