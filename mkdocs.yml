@@ -48,7 +48,7 @@ icon:
     logo: material/cogs
     favicon: material/cogs
 
-# Page tree
+# Page tree, here we define what we have in the page
 nav:
 - Home: index.md
 
