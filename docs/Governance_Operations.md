@@ -6,7 +6,7 @@
 
 1. [Introduction](#introduction)
     - [Project Overview and Objectives](#project-overview-and-objectives)
-        - [dplPy](#dplpy)
+        - [NoahMP](#NoahMP)
         - [FOSS Reference Hub](#foss-reference-hub)
     - [Our Team](#our-team)
         - [Organizational Structure](#organizational-structure)
@@ -30,17 +30,12 @@ The complex processes of soil moisture dynamics pose significant challenges in u
 
 #### NoahMP
 
-Noah-MP is a land surface model (LSM) using multiple options for key land-atmosphere interaction processes(https://ral.ucar.edu/model/noah-multiparameterization-land-surface-model-noah-mp-lsm)
+Noah-MP is a widely-used state-of-the-art land surface model used in many research and operational weather/climate models (e.g., HRLDAS, WRF, MPAS, WRF-Hydro/NWM, NOAA/UFS, NASA/LIS, etc.)
+This is the official Noah-MP land surface model unified repository for code downloading and contribution. Noah-MP is a community open-source model developed with the contributions from the entire scientific community. For development, maintenance, and release of the community Noah-MP GitHub code, please contact: Cenlin He (cenlinhe@ucar.edu) and Fei Chen (feichen@ucar.edu).
 
-#### FOSS Reference Hub
+#### NoahMP Reference Hub
 
-The FOSS reference hub is a reference repository for the [Foundational Open Science Skills (FOSS)](https://foss.cyverse.org/) workshop series. Together with dplPy, the aim of this repository is to serve as a reference for the [capstone](https://foss.cyverse.org/final_project/overview/), which FOSS attendees are expected to complete within the duration of the FOSS workshop.
-
-The dplPy project was selected to enhance the FOSS Reference Hub with a reliable codebase, ensuring it mirrors a genuine repository that participants can use as a model when attempting to replicate similar setups for their individual projects.
-
-The goals of the FOSS Reference Hub are to:
-- Serve as an exemplary reference for a well structured research object.
-- Guide FOSS attendees through weekly exercises designed to progressively enhance their project repositories.
+Noah-MP model website: https://ral.ucar.edu/solutions/products/noah-multiparameterization-land-surface-model-noah-mp-lsm
 
 ### Our Team
 
@@ -51,31 +46,18 @@ Meet the executive team:
 - **Ali Behrangi**: I joined the Department of Hydrology and Atmospheric Sciences at the University of Arizona as an associate professor in January 2018.  My doctoral work at the University of California, Irvine was on developing high-resolution precipitation products using satellite images and my postdoctoral work at California Institute of Technology (Caltech) and Jet Propulsion Laboratory (JPL) was on analysis of cloud and precipitation products from multiple sensors. As a NASA JPL scientist (2012-2018)  I was involved in several projects (as principal investigator or co-investigator) on various topics including precipitation retrieval, pathfinder for microwave sounding instrument, tropical cloud and precipitation, water and energy budget studies, GRACE based water storage anomaly, hydrologic modeling, extreme weather and climate studies, mission concept and proposal development, and using diverse data sets across multiple disciplines to quantify precipitation amount and distribution over cold regions(https://behrangi.faculty.arizona.edu/).
 
 
-FOSS will also be hosting the following guest speakers:
-
-- [**Jason Williams**](https://dnalc.cshl.edu/about/staff-bio.html#williams): Assistant Director, Diversity and Research Readiness at the 
-DNA Learning Center of Cold Spring Harbor.
-- **Wade Bishop**: Professor in the School of Information Sciences at the University of Tennessee-Knoxville. He is the Director of Graduate Studies as well as the Research Data Management Certificate Coordinator
-
 #### Organizational Structure
 
 ```
-FOSS
-├── CyVerse/Data Science Institute
-│   ├── Tyson Swetnam 
-│   ├── Jeff Gillan
-│   ├── Carlos Lizarraga
-│   ├── Tina Lee
-│   └── Michele Cosi
-├── FOSS Reference Hub
-│   └── dplPy
-│        ├── Kevin Anchukaitis
-│        ├── Edward Cook
-│        ├── Andy Bunn
-│        └── Ifeuwa Ale
-└── Guest Speakers
-    ├── Jason Williams
-    └── Wade Bishop
+NOAH-MP/SMAP team
+├── NOAH-MP team
+│   ├── Guo_Yue Niu
+│   └── Mohammad Farmani
+├── Remote sensing team
+    └── SMAP
+         ├── Ali Behrangi
+         └── Mohammad Farmani
+
 ```
 
 ## Operations
