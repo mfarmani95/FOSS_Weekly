@@ -61,11 +61,11 @@ NOAH-MP/SMAP team
 
 ## Operations
 
-In order to ensure well distributed work loads across FOSS and the FOSS teaching materials including the FOSS Reference Hub, we have outlined communications and procedure components in order to maximize effectiveness and efficiency.
+In order to ensure well distributed work loads across Noah-MP and the remote sensing team, we have outlined communications and procedure components in order to maximize effectiveness and efficiency.
 
 ### Communications
 
-**Internal communications**: communications within the CyVerse/Data Science Institute team is carried out through private Slack channels (CyVerse, CyVerseLearning, Data7) and Zoom meetings.
+**Internal communications**: communications within the teams is carried out through private Zoom meetings.
 
 **External communications**: communications to the dplPy team is carried out through a private Slack channel (openDendro), whilst communication to the guest speakers is done through email (Wade Bishop) and the CyVerse/CyverseLearning Slack Channel (Jason Williams).
 
