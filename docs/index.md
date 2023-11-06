@@ -1,6 +1,6 @@
-#  Documentation 
+#  🟢 Objectives of the project" 
 
-🟢 "Objectives of the project"
+
 
     *  Implemeting new parametrization of Noah-MP and measuring its effectiveness in representing soil moisture
     *  Analysis of the new parametrization effects on soil moisture memory 
