@@ -16,6 +16,11 @@ Now, consider this situation, in which higher soil moisture is estimated for sur
 If the surface soil is already saturated or near saturation (high soil moisture content due to overestimation), it has a reduced capacity to absorb additional rainfall. This can lead to increased infiltration excess and, subsequently, more surface runoff.
 In other words, models generate some streamflow that doesn't exist in reality.
 
+When the soil retains more moisture than is realistically present, it can lead to the generation of artificially elevated streamflow and baseflow. This is because soil water content is intrinsically linked to the two primary mechanisms of streamflow generation: ❗ Infiltration excess and Saturation excess❗
+
+Imagine a scenario where an arid region's surface soil moisture is overestimated. If this surface soil approaches or reaches saturation due to such overestimation, its capacity to absorb subsequent rainfall diminishes. This condition can amplify infiltration excess, resulting in increased surface runoff. Essentially, this means models might portray streamflow values that diverge from true conditions.🔴
+
+
 ![image](https://github.com/mfarmani95/FOSS_Weekly/assets/83543441/888c7d8f-073b-459c-8f72-152df8ffa309)
 
 
