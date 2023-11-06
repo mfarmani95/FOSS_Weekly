@@ -2,7 +2,7 @@
 
 !!! Success "Objectives of the project"
 
-- {+ try +}
+- {+ try +}.
 {:.alert .alert-gitlab-orange}
 
 
