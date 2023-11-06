@@ -1,6 +1,6 @@
 #  Documentation 
 
-!!! Success "Objectives of the project"
+❕ "Objectives of the project"
 
 - {+ try +}.
 - 
