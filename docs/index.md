@@ -10,6 +10,7 @@ Many land surface models tend to overestimate soil moisture across CONUS. Soil m
 
 ![Average soil moisture](https://github.com/mfarmani95/FOSS_Weekly/assets/83543441/33f93ea3-dadc-4830-8553-eb34a6656c0f)
 
+
 ## So what is wrong with it? 🤔
 
 
