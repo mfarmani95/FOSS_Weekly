@@ -52,7 +52,9 @@ icon:
 # Page tree
 nav:
 - Home: index.md
-
+- Data: /docs/Data_Management.md
+- Our team : /docs/Governance_Operation.md
+- Method : /docs/methods.md
 # Extra Plugins
 plugins:
     - search
