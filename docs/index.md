@@ -1,7 +1,7 @@
 #  🟢 Objectives of the project
 
     *  Implementing the new parametrization of Noah-MP and assessing its accuracy in representing soil moisture
-    *  Ensure the models do not overestimate streamflow
+    *  Increase the accuracy of streamflow estimation in arid regions during the dry periods
     *  Increase the accuracy of transpiration and evapotranspiration estimation
 
 ## What is the problem?
