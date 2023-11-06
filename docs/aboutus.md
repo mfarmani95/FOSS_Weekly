@@ -1,4 +1,13 @@
+# Governance and Operations Document
 
+*This is a living document. Changes are expected throughout the life of the project.*
+
+### Table of Contents
+
+1. [Introduction](#introduction)
+    - [Project Overview and Objectives](#project-overview-and-objectives)
+        - [Noah-MP](#Noah-MP)
+        - [Noah-MP Reference Hub](#Noah-MP-Reference-Hub)
 
 ## Introduction
 
