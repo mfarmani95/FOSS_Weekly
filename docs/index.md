@@ -2,7 +2,7 @@
 
 !!! Success "Objectives of the project"
 
-My text in an orange box.
+
 {: .alert .alert-gitlab-orange}
 
 
