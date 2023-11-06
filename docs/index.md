@@ -1,10 +1,8 @@
-#  🟢 Objectives of the project" 
+#  🟢 Objectives of the project
 
-
-
-    *  Implemeting new parametrization of Noah-MP and measuring its effectiveness in representing soil moisture
-    *  Analysis of the new parametrization effects on soil moisture memory 
-    *
+    *  Implementing the new parametrization of Noah-MP and measuring its effectiveness in representing soil moisture
+    *  Ensure the models do not overestimate streamflow
+    *  Increase the accuracy of transpiration and evapotranspiration estimation
 
 ## What is the problem?
 Most land surface models <mark>overestimate the soil moisture</mark> over CONUS. Soil moisture acts like a memory for soil and it has direct impact on rainfall and streamflow generation.
