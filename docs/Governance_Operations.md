@@ -1,4 +1,3 @@
-# Governance and Operations Document
 
 *This is a living document. Changes are expected throughout the life of the project.*
 
