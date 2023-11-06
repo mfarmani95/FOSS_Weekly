@@ -1,5 +1,10 @@
 # This is an introduction for the Noah-MP/SMAP research project
 
+!!! Success "Objectives of the project"
+    *  Implemeting new parametrization of Noah-MP and measuring its effectiveness in representing soil moisture
+    *  Analysis of the new parametrization effects on soil moisture memory 
+    *
+
 ## What is the problem?
 Most land surface models <mark>overestimate the soil moisture</mark> over CONUS. Soil moisture acts like a memory for soil and it has direct impact on rainfall and streamflow generation.
 
