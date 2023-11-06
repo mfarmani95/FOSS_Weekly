@@ -1,4 +1,4 @@
-# This is an introduction for the Noah-MP/SMAP research project
+# :material-file-document-multiple: Documentation & :material-antenna: Communication
 
 !!! Success "Objectives of the project"
 
