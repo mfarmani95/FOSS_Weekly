@@ -1,8 +1,8 @@
 #  🟢 Objectives of the project
 
     *  Implementing the new parametrization of Noah-MP and assessing its accuracy in representing soil moisture
-    *  Increase the accuracy of streamflow estimation in arid regions during the dry periods
     *  Increase the accuracy of transpiration and evapotranspiration estimation
+    *  Increase the accuracy of streamflow estimation in arid regions during the dry periods    
 
 ## What is the problem?
 Many land surface models tend to overestimate soil moisture across CONUS. Soil moisture serves as a memory mechanism for the soil and directly influences both rainfall and streamflow
