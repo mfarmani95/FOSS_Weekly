@@ -11,7 +11,8 @@ Soil Moisture Memory (SMM) denotes the period from when a perturbation begins to
 
 <img width="505" alt="image" src="https://github.com/mfarmani95/FOSS_Weekly/assets/83543441/766fd023-15a3-4c1e-b935-c323d103fdfd">
 
-![AA_1](https://github.com/mfarmani95/FOSS_Weekly/assets/83543441/4f5e769a-de9d-47be-a14d-1b6436397aee)
+
+![AA](https://github.com/mfarmani95/FOSS_Weekly/assets/83543441/75c637a8-7eff-4424-9a63-ca25ca400d2a)
 
 
 
