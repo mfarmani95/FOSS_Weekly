@@ -22,7 +22,7 @@ Imagine a scenario where an arid region's surface soil moisture is overestimated
 ![image](https://github.com/mfarmani95/FOSS_Weekly/assets/83543441/888c7d8f-073b-459c-8f72-152df8ffa309)
 
 
-<img width="1460" alt="Screenshot 2023-11-05 at 8 23 01 PM" src="https://github.com/mfarmani95/FOSS_Weekly/assets/83543441/d68799e9-5624-417e-8d30-12f7c62c5f44">
+
 
 
 
