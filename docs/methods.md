@@ -22,3 +22,8 @@ The hybrid model, as outlined by McColl et al. (2019), estimates soil moisture m
 <img width="437" alt="Screenshot 2023-11-05 at 8 53 55 PM" src="https://github.com/mfarmani95/FOSS_Weekly/assets/83543441/6f6ad123-81df-443f-bbb4-dd3a53b364e1">
 
 <img width="296" alt="Screenshot 2023-11-05 at 8 53 21 PM" src="https://github.com/mfarmani95/FOSS_Weekly/assets/83543441/fbcf1fc8-00b9-4134-a31c-d67cea0ac524">
+
+
+Mccoll, Kaighin A., Qing He, Hui Lu, and Dara Entekhabi. 2019. “Short-Term and Long-Term Surface Soil Moisture Memory Time Scales Are Spatially Anticorrelated at Global Scales.” Journal of Hydrometeorology 20(6):1165–82. doi: 10.1175/JHM-D-18-0141.1.
+McColl, Kaighin A., Wei Wang, Bin Peng, Ruzbeh Akbar, Daniel J. Short Gianotti, Hui Lu, Ming Pan, and Dara Entekhabi. 2017b. “Global Characterization of Surface Soil Moisture Drydowns.” Geophysical Research Letters 44(8):3682–90. doi: 10.1002/2017GL072819.
+![image](https://github.com/mfarmani95/FOSS_Weekly/assets/83543441/77fca300-442a-4e34-af25-813d6c86dfd5)
