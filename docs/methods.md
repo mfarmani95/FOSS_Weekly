@@ -16,21 +16,17 @@ Figure 1 Schematic diagrams of (a) surface water loss process and (b) soil moist
 We expound upon the concept of soil moisture memory as it pertains to two distinct regimes: the water-limited regime (τ_L), where 'L' denotes the protracted temporal scale that is characteristic of water-limited processes, and the energy-limited regime (τ_S), with 'S' indicating the abbreviated temporal scale inherent to energy-limited processes. This delineation is grounded in the framework proposed by McColl et al. (2019). Their hybrid model integrates a deterministic equation to faithfully represent the water-limited process, which benefits from the extended temporal span that satellite datasets can monitor and reflect. In contrast, the energy-limited process, constrained by a narrower temporal window, poses significant observational challenges for current satellite technologies to accurately characterize. To address this gap, McColl et al. (2019) introduced a stochastic equation tailored to encapsulate the dynamics of this transient process, thereby providing a robust methodology to elucidate the intricacies of this energy-limited regime that were previously unresolved.  The hybrid model is as follow:
 
 
-┤![image](https://github.com/mfarmani95/FOSS_Weekly/assets/83543441/5f5d09de-08c8-4591-aacf-6aa48c728482)
+![image](https://github.com/mfarmani95/FOSS_Weekly/assets/83543441/5f5d09de-08c8-4591-aacf-6aa48c728482)
 
 
 where, θ is the volumetric soil moisture, P indicates the occurrence of precipitation, θ_w is a minimum soil moisture, θ ̅ is the time average SM, and ε(t) is an independent and identically distributed random variable with a mean of zero, τ_L and τ_S are SSM for the water-limited and energy-limited regimes, respectively. McColl et al. (2019) solved the equations and showed that the memories can be expressed as:
+![image](https://github.com/mfarmani95/FOSS_Weekly/assets/83543441/a23b91ab-1fb8-462d-b198-7d29c1fb32eb)
 
 
 
 where, ∆θ is equal to the SM changes during the drydown event, ∆t is the temporal resolution of the SM data, α refers precipitation intensity, and (〖∆θ〗_+ ) ̅  = θ(t) - θ(t-∆t) refers to a positive increment in soil moisture. 
 
 In the analysis of water-limited memory, we employed Equation 2, fitting it to the soil moisture time series over a specified drydown interval, thereby extracting τ_L as a parameter intrinsic to the fit. In contrast, short-term memory was ascertained directly from the application of Equation 3. For the computation of long-term memory, which operated under the presumption of no precipitation, soil moisture data was considered as the primary input. However, to accurately assess the memory from the energy-limited stage, it was necessary to combine both rainfall and soil moisture data to completely understand the complex interactions that controlled this phase.
-
-It should be mentioned that as it is specified by He et al.(2023), the terms "water-limited" and "energy-limited" are used with some flexibility, as their definitions are not absolute. It is conceivable, for instance, that Stage-I ET might take place during periods of soil drying even in the absence of rainfall. There is also the potential for Stage-I ET to occur between consecutive rainfalls without the soil reaching to the critical point θ_c, which could happen in extreme humid climate regions. Furthermore, the absence of precipitation data in this method to detect soil drydown periods introduces the possibility of misidentification. Rainfall that occurs within the 2-3 day gaps between satellite soil moisture observations could be overlooked, leading to a scenario where subsequent readings indicate a decrease in soil moisture, despite the actual occurrence of rainfall shortly after the preceding measurement.
-
-![image](https://github.com/mfarmani95/FOSS_Weekly/assets/83543441/a23b91ab-1fb8-462d-b198-7d29c1fb32eb)
-
 
 
 
